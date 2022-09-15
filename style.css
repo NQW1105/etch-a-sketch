@@ -1,0 +1,25 @@
+body {
+    background-color: #D6CDA4;
+ 
+}
+
+.title {
+    text-align: center;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(1, auto);
+    /* grid-template-rows: ; */
+}
+
+/* Use this color when mouse hover */
+/* #F2F2F2 */
+.sketched {
+  background-color: black;
+}
+
+/* etch-a-sketch frame */
+/* div {
+    background-color: #FF4A4A;
+} */
